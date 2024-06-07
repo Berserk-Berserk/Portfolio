@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css2?family=Manrope:wght@100;200;300;400;500;600;800&display=swap);
 body{
-    background: #323232d3;;
+    background: #323232;
+}
+.bodyg{
+    background: #323232;
 }
 header {
     background: #0000008a;
