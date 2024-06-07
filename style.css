@@ -1,0 +1,554 @@
+@import url(https://fonts.googleapis.com/css2?family=Manrope:wght@100;200;300;400;500;600;800&display=swap);
+
+header {
+    background: #323232d3;
+
+}
+
+.partone {
+    position: relative;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between
+}
+
+.partone>div {
+    width: 50%
+}
+
+.partone img {
+    display: block;
+    margin: 0 auto
+}
+
+.partone p {
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #959595;
+}
+
+.partone h1 {
+    font-family: Manrope;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #fff;
+}
+
+.headone {
+    width: 1440px;
+    margin: 0 auto;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Manrope', sans-serif;
+    align-items: center;
+}
+
+.headone ul {
+    margin: 0 102px 0 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    display: flex;
+
+}
+
+.headone ul li {
+    margin: 0 0 0 50px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24.59px;
+    letter-spacing: -0.5px;
+    text-align: left;
+}
+
+.headone ul li a {
+    color: #fff;
+    text-decoration: none
+}
+
+.vvtext {
+    width: 200px;
+    text-align: center;
+}
+
+.bodyg {
+    width: 1440px;
+    background: #000000ce;
+    margin: 0 auto;
+}
+
+.logo {
+    margin-left: 102px;
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    margin: 0 10px 0 0;
+}
+
+.logo p {
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 27.32px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #fff;
+
+}
+
+.partone input[type="button"] {
+    width: 400px;
+    height: 64px;
+    top: 615px;
+    left: 96px;
+    padding: 16px 48px 16px 48px;
+    gap: 16px;
+    border-radius: 2px 2px 2px 2px;
+    opacity: 0px;
+    background-color: #9D9D9D;
+    border: none;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.partone p:last-child {
+    background-image: url(/Arrowone.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    padding-left: 25px;
+    text-transform: uppercase;
+}
+
+.iggs {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding: 0px 100px;
+    margin-top: -50px;
+}
+
+.left {
+    width: 612px;
+}
+
+.right {
+    width: 612px;
+}
+
+.iggs img {
+    margin: 0px;
+    display: block;
+}
+
+.right {
+    margin-top: 220px;
+}
+
+.igu {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.igu h3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    font-family: Manrope;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 54.64px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #DEDEDE;
+    background: rgb(0, 0, 0, 0.5);
+    opacity: 0;
+    cursor: pointer;
+}
+
+.igu:hover h3 {
+    opacity: 1;
+}
+
+.iggi h1 {
+    margin: 0 auto;
+    width: 350px;
+    font-family: Manrope;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 49.18px;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #DEDEDE;
+    margin-top: 150px;
+}
+
+.irat {
+    text-align: center;
+    margin-top: 20px;
+    padding: 50px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.irat img {
+    margin: 10px 10px;
+}
+
+.irattwo {
+    text-align: center;
+    margin-top: 20px;
+    padding: 50px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.irattwo img {
+    margin: 10px 10px;
+}
+
+.iggi p {
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #959595;
+}
+
+.iggi input[type="button"] {
+    width: 400px;
+    height: 64px;
+    top: 615px;
+    left: 96px;
+    padding: 16px 48px 16px 48px;
+    gap: 16px;
+    border-radius: 2px 2px 2px 2px;
+    opacity: 0px;
+    background-color: #9D9D9D;
+    border: none;
+    font-size: 20px;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 520px;
+}
+
+.foter {
+    justify-content: space-between;
+    margin-top: 50px;
+    display: flex;
+    text-align: center;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33px;
+    /* 150% */
+    letter-spacing: 0.22px;
+    color: #4D5053;
+    padding: 75px;
+    border-top: 1px solid #696969;
+}
+
+.foterdef {
+    color: #959595;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.foterdef p {
+    margin: 0;
+}
+
+span {
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+li {
+    list-style: none;
+}
+
+.footericos {
+    display: flex;
+}
+
+.footericos li {
+    margin-left: 20px;
+}
+
+@media screen and (max-width: 1440px) {
+    .logo img {
+        width: 40px
+    }
+
+    img {
+        width: 100%;
+        height: auto
+    }
+
+    .headone {
+        width: 980px
+    }
+
+    .bodyg {
+        width: 980px
+    }
+
+    .partone {
+        padding: 30px 50px
+    }
+
+    .logo {
+        margin-left: 50px
+    }
+
+    .headone ul {
+        margin-right: 50px
+    }
+
+    .partone h1 {
+        font-size: 45px;
+        font-weight: 700;
+        line-height: 52px;
+    }
+
+    .partone p {
+        font-size: 19px;
+        font-weight: 600;
+        line-height: 27px;
+    }
+
+    .partone p:last-child {
+        background-size: auto 100%
+    }
+
+    .right,
+    .left {
+        width: 48%;
+    }
+
+    .irattwo img {
+        width: 30%;
+    }
+
+    .right img,
+    .left img {
+        width: 100%;
+        height: auto
+    }
+
+    .iggs {
+        padding: 0 50px
+    }
+
+    .irattwo img {
+        max-width: 31%
+    }
+
+    .irat img {
+        max-width: 47%
+    }
+
+    .iggi {
+        text-align: center
+    }
+
+    .iggi input[type="button"] {
+        margin-left: 0
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .partone img {
+        width: 60%;
+    }
+
+    .headone {
+        width: 767px
+    }
+
+    .bodyg {
+        width: 767px
+    }
+
+    .partone {
+
+        flex-direction: column-reverse
+    }
+
+    .partone>div {
+        width: 100%;
+        text-align: center
+    }
+
+    .partone h1 {
+        text-align: center
+    }
+
+    .partone p {
+        text-align: center
+    }
+
+    .partone p:last-child {
+        background-position: calc(50% - 80px) 0;
+    }
+
+
+}
+
+@media screen and (max-width: 767px) {
+    .partone h1 {
+        line-height: 45px;
+        font-size: 36px;
+    }
+
+    .partone {
+        padding: 30px 20px
+    }
+
+    .partone img {
+        width: 60%;
+        height: auto;
+    }
+
+    .headone {
+        height: auto;
+        padding: 10px 0px;
+    }
+
+    .headone ul li {
+        margin: 0 10px;
+    }
+
+    .headone ul {
+        justify-content: center;
+        margin: 0px;
+    }
+
+    .logo {
+        margin-left: 0;
+        justify-content: center;
+    }
+
+    .headone {
+        width: 100%
+    }
+
+    .bodyg {
+        width: 100%
+    }
+
+    .irat {
+        padding: 0px 0px;
+    }
+
+    .irat img {
+        width: 41%;
+    }
+
+    .irattwo {
+        padding: 0px 0px 0px 0px;
+    }
+    
+    .irattwo img {
+
+        width: 120%;
+    }
+
+    .headone {
+        display: block
+    }
+
+    .iggs {
+        padding: 0px 20px;
+    }
+
+    .iggi h1 {
+        width: auto;
+        margin: 60px 0 0;
+        font-size: 29px;
+        font-weight: 700;
+        line-height: 42.18px;
+    }
+
+    .iggs h3 {
+        font-size: 20px;
+    }
+
+    .iggs img {
+        width: 100%;
+        height: auto;
+        padding: 0px;
+    }
+    .iggi input[type="button"] {
+        width: 90%;
+        height: 64px;
+        top: 615px;
+        left: 96px;
+        padding: 16px 5% 16px 5%;
+        gap: 16px;
+        border-radius: 2px 2px 2px 2px;
+        opacity: 0px;
+        background-color: #9D9D9D;
+        border: none;
+        font-size: 20px;
+        color: #fff;
+        cursor: pointer;
+    }
+    .partone input[type="button"] {
+        width: 90%;
+        height: 64px;
+        top: 615px;
+        left: 96px;
+        padding: 16px 5% 16px 5%;
+        gap: 16px;
+        border-radius: 2px 2px 2px 2px;
+        opacity: 0px;
+        background-color: #9D9D9D;
+        border: none;
+        font-size: 20px;
+        color: #fff;
+        cursor: pointer;
+    }
+    .foter{
+        padding: 35px 20px 20px;
+        flex-direction:column
+    }
+    .iggi{padding:0 20px}
+    .foterdef{text-align:center;padding:0 0 10px;font-size:16px;line-height 20px;}
+    .footericos img{
+        
+    }
+    
+}
